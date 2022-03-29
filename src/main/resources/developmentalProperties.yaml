@@ -1,0 +1,7 @@
+salesforceconnector:
+   token: "4EIhuaRSKFDd2V2oiodz5b0D"
+   username: "eniquehrms@gmail.com"
+   password: "hrmsproject123"
+ 
+http:
+  port: "8082"

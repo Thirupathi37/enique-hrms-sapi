@@ -1,0 +1,10 @@
+[{
+  "id": "01",
+  "employeeId": "ES0001",
+  "salary": "100000",
+  "bonus": "20000",
+  "hike": "300000",
+  "variablePay": "64000",
+  "year": "2400000",
+  "quarter": "800000"
+}]
